@@ -1,2 +1,2 @@
 # QR-CODE-GENERATOR
-Simple QR Code Generator
+Simple QR Code Generator made with JavaScript
